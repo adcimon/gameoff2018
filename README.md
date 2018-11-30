@@ -4,5 +4,5 @@ This is the entry for the Github Game Off 2018. The game is a survival horror bo
 
 Art references:
 * [The Soldier - 4 Directions Sprites](https://assetstore.unity.com/packages/2d/characters/the-soldier-4-directions-sprites-94136).
-* [Pixel FX](The Soldier - 4 Directions Sprites).
+* [Pixel FX](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/pixel-fx-41545).
 * [Pixel Fonts](https://assetstore.unity.com/packages/2d/fonts/pixel-fonts-113588).
