@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91edbc5c6c6f26049a1caf7f57ffec86, type: 3}
+  m_Name: AK47Item
+  m_EditorClassIdentifier: 
+  gameObjectName: Hand_Right
+  material: {fileID: 2100000, guid: 89b701bd203e3404b8690d2afb326e9f, type: 2}
+  sortingLayerName: Characters
+  spriteAnimationGroups:
+  - {fileID: 11400000, guid: fbd0cde2634d86c41b9a01d47f6d6a21, type: 2}
+  - {fileID: 11400000, guid: aca53d2134a79e34785ecd42905d7c5c, type: 2}
+  - {fileID: 11400000, guid: 1e860c042531ef341aebedab44bbd456, type: 2}
+  - {fileID: 11400000, guid: ad6050e88251c0e4cbd5637056b7aa42, type: 2}
+  - {fileID: 11400000, guid: 7754b698d6bc0104bbc1d3416e899b79, type: 2}
+  - {fileID: 11400000, guid: fe34373be463c5546b1922cf5820216a, type: 2}
+  - {fileID: 11400000, guid: 6a493d350fd32324fb28c0e4ef023637, type: 2}
+  - {fileID: 11400000, guid: 3650026ceca7148409ff26fa2b7c554b, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91edbc5c6c6f26049a1caf7f57ffec86, type: 3}
+  m_Name: FlameThrowerItem
+  m_EditorClassIdentifier: 
+  gameObjectName: Hand_Right
+  material: {fileID: 2100000, guid: 89b701bd203e3404b8690d2afb326e9f, type: 2}
+  sortingLayerName: Characters
+  spriteAnimationGroups:
+  - {fileID: 11400000, guid: e28d7d13250fd244badb0ac350432171, type: 2}
+  - {fileID: 11400000, guid: 5aae237096189bf489a64aaa6c096f1d, type: 2}
+  - {fileID: 11400000, guid: 3f6c17437a286de4db8270ccc59db6dd, type: 2}
+  - {fileID: 11400000, guid: e915ab9e4e4f0344bab227386dcc9f4d, type: 2}
+  - {fileID: 11400000, guid: 396a2a3510e6c134184f68c223705b90, type: 2}
+  - {fileID: 11400000, guid: ade26eb297eeb504b9699446989aac09, type: 2}
+  - {fileID: 11400000, guid: 831d040f3e0b14546a765aec6198589a, type: 2}
+  - {fileID: 11400000, guid: aba09aa640d67ce498929a4ec46c2091, type: 2}

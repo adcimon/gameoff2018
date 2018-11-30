@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af76380406955f041b012fc588c1b9a5, type: 3}
+  m_Name: AK47
+  m_EditorClassIdentifier: 
+  name: AK47
+  item: {fileID: 11400000, guid: 3b83d5bd8f75fd94c9a9959d4d3a33ed, type: 2}
+  spriteRenderer: {fileID: 0}
+  projectile: {fileID: 6165643985846410162, guid: 4dc53bf340ff2014db50b3274a4b65f9,
+    type: 3}
+  projectileOffset: 0
+  projectileRate: 5
+  projectileDamage: 4
+  projectileSpeed: 20
+  projectileLifetime: 3
+  shootEffect: {fileID: 100004, guid: 1a0bcee4f387b7d4bbb9494b0d2e4d99, type: 3}
+  effectOffset: 1.4

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af76380406955f041b012fc588c1b9a5, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  name: Shotgun
+  item: {fileID: 11400000, guid: bc9670fee99c0d84e950fa6f0f23bdf9, type: 2}
+  spriteRenderer: {fileID: 0}
+  projectile: {fileID: 6165643985846410162, guid: 0ab43e3c6b9c9234096be9bc135cdc35,
+    type: 3}
+  projectileOffset: 0
+  projectileRate: 1
+  projectileDamage: 30
+  projectileSpeed: 100
+  projectileLifetime: 0.5
+  shootEffect: {fileID: 100004, guid: 220821cd07fa7c74f9283d554615da90, type: 3}
+  effectOffset: 1.3

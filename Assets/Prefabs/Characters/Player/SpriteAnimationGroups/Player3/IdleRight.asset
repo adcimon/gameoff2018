@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c35228b45106dbf40aa9f65047c1a47b, type: 3}
+  m_Name: IdleRight
+  m_EditorClassIdentifier: 
+  name: IdleRight
+  eulerAngles: {x: 0, y: 0, z: 0}
+  spriteAnimations:
+  - gameObjectName: Pelvis
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300204, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 0
+    ignoreOrder: 0
+  - gameObjectName: Chest
+    position: {x: 0, y: 0.749, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300154, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: -10
+    ignoreOrder: 0
+  - gameObjectName: Head
+    position: {x: 0, y: 1.459, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300040, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 10
+    ignoreOrder: 0
+  - gameObjectName: Arm_Right
+    position: {x: -0.644, y: 0.206, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300084, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 40
+    ignoreOrder: 0
+  - gameObjectName: Elbow_Right
+    position: {x: 0.13, y: -0.4, z: 0}
+    rotation: {x: -0, y: 0, z: 336.69214}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300100, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 41
+    ignoreOrder: 0
+  - gameObjectName: Hand_Right
+    position: {x: 0.446, y: 0, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300110, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 42
+    ignoreOrder: 0
+  - gameObjectName: Arm_Left
+    position: {x: 0.532, y: 0.129, z: 0}
+    rotation: {x: -0, y: -0, z: 48.869568}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300088, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 50
+    ignoreOrder: 0
+  - gameObjectName: Elbow_Left
+    position: {x: -0.057, y: -0.412, z: 0}
+    rotation: {x: -0, y: 0, z: 274.87003}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300100, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 51
+    ignoreOrder: 0
+  - gameObjectName: Hand_Left
+    position: {x: 0.39, y: 0.01, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300106, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 52
+    ignoreOrder: 0
+  - gameObjectName: Leg_Right
+    position: {x: -0.231, y: -0.374, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300236, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 30
+    ignoreOrder: 0
+  - gameObjectName: Knee_Right
+    position: {x: -0.026, y: -0.482, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300274, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 31
+    ignoreOrder: 0
+  - gameObjectName: Foot_Right
+    position: {x: 0.11, y: -0.45, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300132, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 32
+    ignoreOrder: 0
+  - gameObjectName: Leg_Left
+    position: {x: 0.316, y: -0.374, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300238, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 20
+    ignoreOrder: 0
+  - gameObjectName: Knee_Left
+    position: {x: 0.026, y: -0.475, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300276, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 21
+    ignoreOrder: 0
+  - gameObjectName: Foot_Left
+    position: {x: 0.18, y: -0.45, z: 0}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+    sprite: {fileID: 21300134, guid: 5ad273d648ecb4f44a49b40c31ad7784, type: 3}
+    sortingOrder: 22
+    ignoreOrder: 0

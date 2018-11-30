@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af76380406955f041b012fc588c1b9a5, type: 3}
+  m_Name: AssaultGun
+  m_EditorClassIdentifier: 
+  name: AssaultGun
+  item: {fileID: 11400000, guid: cecd4b29854d3db4985f4752ddc41499, type: 2}
+  spriteRenderer: {fileID: 0}
+  projectile: {fileID: 6165643985846410162, guid: 818b35cd942e49a44ad6da6504f63407,
+    type: 3}
+  projectileOffset: 0
+  projectileRate: 3
+  projectileDamage: 4
+  projectileSpeed: 30
+  projectileLifetime: 2
+  shootEffect: {fileID: 100004, guid: 1a0bcee4f387b7d4bbb9494b0d2e4d99, type: 3}
+  effectOffset: 1.3
