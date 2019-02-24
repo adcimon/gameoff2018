@@ -9,5 +9,5 @@ Art references (<strong>NOT</strong> included in the project):
 * [Pixel Fonts](https://assetstore.unity.com/packages/2d/fonts/pixel-fonts-113588).
 
 Releases:
-* [The night is dark @ Github](https://aquarterofpixel.github.io/the-night-is-dark/)
-* [The night is dark @ itch.io](https://aquarterofpixel.itch.io/the-night-is-dark)
+* [The night is dark (GitHub)](https://aquarterofpixel.github.io/the-night-is-dark/)
+* [The night is dark (itch.io)](https://aquarterofpixel.itch.io/the-night-is-dark)
