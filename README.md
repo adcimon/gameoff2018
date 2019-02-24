@@ -7,3 +7,7 @@ Art references (<strong>NOT</strong> included in the project):
 * [Horror City - Tile Pack](https://vexedenigma.itch.io/horror-city-tile-pack).
 * [Pixel FX](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/pixel-fx-41545).
 * [Pixel Fonts](https://assetstore.unity.com/packages/2d/fonts/pixel-fonts-113588).
+
+Releases:
+* [The night is dark @ Github](https://aquarterofpixel.github.io/the-night-is-dark/)
+* [The night is dark @ itch.io](https://aquarterofpixel.itch.io/the-night-is-dark)
