@@ -29,25 +29,25 @@
 			float _Cutoff;
 			float _Fade;
 
-			struct VertexData
+			struct Attributes
 			{
 				float4 position : POSITION;
 				float2 uv : TEXCOORD0;
 			};
 
-			struct FragmentData
+			struct Varyings
 			{
 				float4 position : SV_POSITION;
 				float2 uv : TEXCOORD0;
 				float2 uv1 : TEXCOORD1;
 			};
 
-			FragmentData Vertex( VertexData v )
+			Varyings Vertex( Attributes input )
 			{
-				FragmentData f;
-				f.position = UnityObjectToClipPos(v.position);
-				f.uv = v.uv;
-				f.uv1 = v.uv;
+				Varyings output;
+				output.position = UnityObjectToClipPos(input.position);
+				output.uv = input.uv;
+				output.uv1 = input.uv;
 
 				// Vertical texture coordinate conventions differ between Direct3D-like and OpenGL-like platforms:
 				// - In Direct3D, Metal and consoles, the coordinate is zero at the top, and increases downwards.
@@ -60,17 +60,17 @@
 					
 				#if UNITY_UV_STARTS_AT_TOP
 				if( _MainTex_TexelSize.y < 0 )
-					f.uv1.y = 1 - f.uv1.y; // flip y coordinate
+					output.uv1.y = 1 - output.uv1.y; // flip y coordinate
 				#endif
 
-				return f;
+				return output;
 			}
 
-			float4 Fragment( FragmentData f ) : COLOR
+			fixed4 Fragment( Varyings input ) : SV_TARGET
 			{
-				float4 transitionColor = tex2D(_TransitionTex, f.uv1);
+				float4 transitionColor = tex2D(_TransitionTex, input.uv1);
 
-				float4 color = tex2D(_MainTex, f.uv);
+				float4 color = tex2D(_MainTex, input.uv);
 
 				if( transitionColor.r < _Cutoff )
 				{
