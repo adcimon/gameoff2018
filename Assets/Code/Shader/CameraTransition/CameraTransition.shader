@@ -17,7 +17,7 @@ Shader "Image Effects/Camera Transition"
 
 		Pass
 		{
-			CGPROGRAM
+			HLSLPROGRAM
 			#pragma vertex Vertex
 			#pragma fragment Fragment
 			#include "UnityCG.cginc"
@@ -79,7 +79,7 @@ Shader "Image Effects/Camera Transition"
 
 				return color;
 			}
-			ENDCG
+			ENDHLSL
 		}
 	}
 }
