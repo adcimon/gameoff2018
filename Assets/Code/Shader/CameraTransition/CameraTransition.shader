@@ -1,4 +1,4 @@
-﻿Shader "Image Effects/Camera Transition"
+Shader "Image Effects/Camera Transition"
 {
 	Properties
 	{
@@ -23,7 +23,7 @@
 			#include "UnityCG.cginc"
 
 			sampler2D _MainTex;
-			float4 _MainTex_TexelSize; // used to solve the issue of different vertical texture coordinates between Direct3D and OpenGL
+			float4 _MainTex_TexelSize; // Used to solve the issue of different vertical texture coordinates between Direct3D and OpenGL.
 			sampler2D _TransitionTex;
 			fixed4 _Color;
 			float _Cutoff;
@@ -31,13 +31,13 @@
 
 			struct Attributes
 			{
-				float4 position : POSITION;
+				float4 positionOS : POSITION;
 				float2 uv : TEXCOORD0;
 			};
 
 			struct Varyings
 			{
-				float4 position : SV_POSITION;
+				float4 positionCS : SV_POSITION;
 				float2 uv : TEXCOORD0;
 				float2 uv1 : TEXCOORD1;
 			};
@@ -45,7 +45,7 @@
 			Varyings Vertex( Attributes input )
 			{
 				Varyings output;
-				output.position = UnityObjectToClipPos(input.position);
+				output.positionCS = UnityObjectToClipPos(input.positionOS);
 				output.uv = input.uv;
 				output.uv1 = input.uv;
 
