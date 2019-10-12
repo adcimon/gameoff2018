@@ -1,0 +1,2278 @@
+fileFormatVersion: 2
+guid: 2aa3191ef47e4fe4cb565ed1a24bd18d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Building1
+  - first:
+      213: 21300002
+    second: TEX_ATLAS_Buildings1_0
+  - first:
+      213: 21300004
+    second: TEX_ATLAS_Buildings1_1
+  - first:
+      213: 21300006
+    second: TEX_ATLAS_Buildings1_2
+  - first:
+      213: 21300008
+    second: TEX_ATLAS_Buildings1_3
+  - first:
+      213: 21300010
+    second: TEX_ATLAS_Buildings1_4
+  - first:
+      213: 21300012
+    second: TEX_ATLAS_Buildings1_5
+  - first:
+      213: 21300014
+    second: TEX_ATLAS_Buildings1_6
+  - first:
+      213: 21300016
+    second: TEX_ATLAS_Buildings1_7
+  - first:
+      213: 21300018
+    second: TEX_ATLAS_Buildings1_8
+  - first:
+      213: 21300020
+    second: TEX_ATLAS_Buildings1_9
+  - first:
+      213: 21300022
+    second: TEX_ATLAS_Buildings1_10
+  - first:
+      213: 21300024
+    second: TEX_ATLAS_Buildings1_11
+  - first:
+      213: 21300026
+    second: TEX_ATLAS_Buildings1_12
+  - first:
+      213: 21300028
+    second: TEX_ATLAS_Buildings1_13
+  - first:
+      213: 21300030
+    second: TEX_ATLAS_Buildings1_14
+  - first:
+      213: 21300032
+    second: TEX_ATLAS_Buildings1_15
+  - first:
+      213: 21300034
+    second: TEX_ATLAS_Buildings1_16
+  - first:
+      213: 21300036
+    second: TEX_ATLAS_Buildings1_17
+  - first:
+      213: 21300038
+    second: TEX_ATLAS_Buildings1_18
+  - first:
+      213: 21300040
+    second: TEX_ATLAS_Buildings1_19
+  - first:
+      213: 21300042
+    second: TEX_ATLAS_Buildings1_20
+  - first:
+      213: 21300044
+    second: TEX_ATLAS_Buildings1_21
+  - first:
+      213: 21300046
+    second: TEX_ATLAS_Buildings1_22
+  - first:
+      213: 21300048
+    second: TEX_ATLAS_Buildings1_23
+  - first:
+      213: 21300050
+    second: TEX_ATLAS_Buildings1_24
+  - first:
+      213: 21300052
+    second: TEX_ATLAS_Buildings1_25
+  - first:
+      213: 21300054
+    second: TEX_ATLAS_Buildings1_26
+  - first:
+      213: 21300056
+    second: TEX_ATLAS_Buildings1_27
+  - first:
+      213: 21300058
+    second: TEX_ATLAS_Buildings1_28
+  - first:
+      213: 21300060
+    second: TEX_ATLAS_Buildings1_29
+  - first:
+      213: 21300062
+    second: TEX_ATLAS_Buildings1_30
+  - first:
+      213: 21300064
+    second: TEX_ATLAS_Buildings1_31
+  - first:
+      213: 21300066
+    second: TEX_ATLAS_Buildings1_32
+  - first:
+      213: 21300068
+    second: TEX_ATLAS_Buildings1_33
+  - first:
+      213: 21300070
+    second: TEX_ATLAS_Buildings1_34
+  - first:
+      213: 21300072
+    second: TEX_ATLAS_Buildings1_35
+  - first:
+      213: 21300074
+    second: TEX_ATLAS_Buildings1_36
+  - first:
+      213: 21300076
+    second: TEX_ATLAS_Buildings1_37
+  - first:
+      213: 21300078
+    second: TEX_ATLAS_Buildings1_38
+  - first:
+      213: 21300080
+    second: TEX_ATLAS_Buildings1_39
+  - first:
+      213: 21300082
+    second: TEX_ATLAS_Buildings1_40
+  - first:
+      213: 21300084
+    second: TEX_ATLAS_Buildings1_41
+  - first:
+      213: 21300086
+    second: TEX_ATLAS_Buildings1_42
+  - first:
+      213: 21300088
+    second: TEX_ATLAS_Buildings1_43
+  - first:
+      213: 21300090
+    second: TEX_ATLAS_Buildings1_44
+  - first:
+      213: 21300092
+    second: TEX_ATLAS_Buildings1_45
+  - first:
+      213: 21300094
+    second: TEX_ATLAS_Buildings1_46
+  - first:
+      213: 21300096
+    second: TEX_ATLAS_Buildings1_47
+  - first:
+      213: 21300098
+    second: TEX_ATLAS_Buildings1_48
+  - first:
+      213: 21300100
+    second: TEX_ATLAS_Buildings1_49
+  - first:
+      213: 21300102
+    second: TEX_ATLAS_Buildings1_50
+  - first:
+      213: 21300104
+    second: TEX_ATLAS_Buildings1_51
+  - first:
+      213: 21300106
+    second: TEX_ATLAS_Buildings1_52
+  - first:
+      213: 21300108
+    second: TEX_ATLAS_Buildings1_53
+  - first:
+      213: 21300110
+    second: TEX_ATLAS_Buildings1_54
+  - first:
+      213: 21300112
+    second: TEX_ATLAS_Buildings1_55
+  - first:
+      213: 21300114
+    second: TEX_ATLAS_Buildings1_56
+  - first:
+      213: 21300116
+    second: TEX_ATLAS_Buildings1_57
+  - first:
+      213: 21300118
+    second: TEX_ATLAS_Buildings1_58
+  - first:
+      213: 21300120
+    second: TEX_ATLAS_Buildings1_59
+  - first:
+      213: 21300122
+    second: TEX_ATLAS_Buildings1_60
+  - first:
+      213: 21300124
+    second: TEX_ATLAS_Buildings1_61
+  - first:
+      213: 21300126
+    second: TEX_ATLAS_Buildings1_62
+  - first:
+      213: 21300128
+    second: TEX_ATLAS_Buildings1_63
+  - first:
+      213: 21300130
+    second: TEX_ATLAS_Buildings1_64
+  - first:
+      213: 21300132
+    second: TEX_ATLAS_Buildings1_65
+  - first:
+      213: 21300134
+    second: TEX_ATLAS_Buildings1_66
+  - first:
+      213: 21300136
+    second: TEX_ATLAS_Buildings1_67
+  - first:
+      213: 21300138
+    second: TEX_ATLAS_Buildings1_68
+  - first:
+      213: 21300140
+    second: TEX_ATLAS_Buildings1_69
+  - first:
+      213: 21300142
+    second: TEX_ATLAS_Buildings1_70
+  - first:
+      213: 21300144
+    second: TEX_ATLAS_Buildings1_71
+  - first:
+      213: 21300146
+    second: TEX_ATLAS_Buildings1_72
+  - first:
+      213: 21300148
+    second: TEX_ATLAS_Buildings1_73
+  - first:
+      213: 21300150
+    second: TEX_ATLAS_Buildings1_74
+  - first:
+      213: 21300152
+    second: TEX_ATLAS_Buildings1_75
+  - first:
+      213: 21300154
+    second: TEX_ATLAS_Buildings1_76
+  - first:
+      213: 21300156
+    second: TEX_ATLAS_Buildings1_77
+  - first:
+      213: 21300158
+    second: TEX_ATLAS_Buildings1_78
+  - first:
+      213: 21300160
+    second: TEX_ATLAS_Buildings1_79
+  - first:
+      213: 21300162
+    second: TEX_ATLAS_Buildings1_80
+  - first:
+      213: 21300164
+    second: TEX_ATLAS_Buildings1_81
+  - first:
+      213: 21300166
+    second: TEX_ATLAS_Buildings1_82
+  - first:
+      213: 21300168
+    second: TEX_ATLAS_Buildings1_83
+  - first:
+      213: 21300170
+    second: TEX_ATLAS_Buildings1_84
+  - first:
+      213: 21300172
+    second: TEX_ATLAS_Buildings1_85
+  - first:
+      213: 21300174
+    second: TEX_ATLAS_Buildings1_86
+  - first:
+      213: 21300176
+    second: TEX_ATLAS_Buildings1_87
+  - first:
+      213: 21300178
+    second: TEX_ATLAS_Buildings1_88
+  - first:
+      213: 21300180
+    second: TEX_ATLAS_Buildings1_89
+  - first:
+      213: 21300182
+    second: TEX_ATLAS_Buildings1_90
+  - first:
+      213: 21300184
+    second: TEX_ATLAS_Buildings1_91
+  - first:
+      213: 21300186
+    second: TEX_ATLAS_Buildings1_92
+  - first:
+      213: 21300188
+    second: TEX_ATLAS_Buildings1_93
+  - first:
+      213: 21300190
+    second: TEX_ATLAS_Buildings1_94
+  - first:
+      213: 21300192
+    second: TEX_ATLAS_Buildings1_95
+  - first:
+      213: 21300194
+    second: TEX_ATLAS_Buildings1_96
+  - first:
+      213: 21300196
+    second: TEX_ATLAS_Buildings1_97
+  - first:
+      213: 21300198
+    second: TEX_ATLAS_Buildings1_98
+  - first:
+      213: 21300200
+    second: TEX_ATLAS_Buildings1_99
+  - first:
+      213: 21300202
+    second: TEX_ATLAS_Buildings1_100
+  - first:
+      213: 21300204
+    second: TEX_ATLAS_Buildings1_101
+  - first:
+      213: 21300206
+    second: TEX_ATLAS_Buildings1_102
+  - first:
+      213: 21300208
+    second: TEX_ATLAS_Buildings1_103
+  - first:
+      213: 21300210
+    second: TEX_ATLAS_Buildings1_104
+  - first:
+      213: 21300212
+    second: TEX_ATLAS_Buildings1_105
+  - first:
+      213: 21300214
+    second: TEX_ATLAS_Buildings1_106
+  - first:
+      213: 21300216
+    second: TEX_ATLAS_Buildings1_107
+  - first:
+      213: 21300218
+    second: TEX_ATLAS_Buildings1_108
+  - first:
+      213: 21300220
+    second: TEX_ATLAS_Buildings1_109
+  - first:
+      213: 21300222
+    second: TEX_ATLAS_Buildings1_110
+  - first:
+      213: 21300224
+    second: TEX_ATLAS_Buildings1_111
+  - first:
+      213: 21300226
+    second: TEX_ATLAS_Buildings1_112
+  - first:
+      213: 21300228
+    second: TEX_ATLAS_Buildings1_113
+  - first:
+      213: 21300230
+    second: TEX_ATLAS_Buildings1_114
+  - first:
+      213: 21300232
+    second: TEX_ATLAS_Buildings1_115
+  - first:
+      213: 21300234
+    second: TEX_ATLAS_Buildings1_116
+  - first:
+      213: 21300236
+    second: TEX_ATLAS_Buildings1_117
+  - first:
+      213: 21300238
+    second: TEX_ATLAS_Buildings1_118
+  - first:
+      213: 21300240
+    second: TEX_ATLAS_Buildings1_119
+  - first:
+      213: 21300242
+    second: TEX_ATLAS_Buildings1_120
+  - first:
+      213: 21300244
+    second: TEX_ATLAS_Buildings1_121
+  - first:
+      213: 21300246
+    second: TEX_ATLAS_Buildings1_122
+  - first:
+      213: 21300248
+    second: TEX_ATLAS_Buildings1_123
+  - first:
+      213: 21300250
+    second: TEX_ATLAS_Buildings1_124
+  - first:
+      213: 21300252
+    second: TEX_ATLAS_Buildings1_125
+  - first:
+      213: 21300254
+    second: TEX_ATLAS_Buildings1_126
+  - first:
+      213: 21300256
+    second: TEX_ATLAS_Buildings1_127
+  - first:
+      213: 21300258
+    second: TEX_ATLAS_Buildings1_128
+  - first:
+      213: 21300260
+    second: TEX_ATLAS_Buildings1_129
+  - first:
+      213: 21300262
+    second: TEX_ATLAS_Buildings1_130
+  - first:
+      213: 21300264
+    second: TEX_ATLAS_Buildings1_131
+  - first:
+      213: 21300266
+    second: TEX_ATLAS_Buildings1_132
+  - first:
+      213: 21300268
+    second: TEX_ATLAS_Buildings1_133
+  - first:
+      213: 21300270
+    second: TEX_ATLAS_Buildings1_134
+  - first:
+      213: 21300272
+    second: TEX_ATLAS_Buildings1_135
+  - first:
+      213: 21300274
+    second: TEX_ATLAS_Buildings1_136
+  - first:
+      213: 21300276
+    second: TEX_ATLAS_Buildings1_137
+  - first:
+      213: 21300278
+    second: TEX_ATLAS_Buildings1_138
+  - first:
+      213: 21300280
+    second: TEX_ATLAS_Buildings1_139
+  - first:
+      213: 21300282
+    second: TEX_ATLAS_Buildings1_140
+  - first:
+      213: 21300284
+    second: TEX_ATLAS_Buildings1_141
+  - first:
+      213: 21300286
+    second: TEX_ATLAS_Buildings1_142
+  - first:
+      213: 21300288
+    second: TEX_ATLAS_Buildings1_143
+  - first:
+      213: 21300290
+    second: TEX_ATLAS_Buildings_0
+  - first:
+      213: 21300292
+    second: TEX_ATLAS_Buildings_1
+  - first:
+      213: 21300294
+    second: TEX_ATLAS_Buildings_2
+  - first:
+      213: 21300296
+    second: TEX_ATLAS_Buildings_3
+  - first:
+      213: 21300298
+    second: TEX_ATLAS_Buildings_4
+  - first:
+      213: 21300300
+    second: TEX_ATLAS_Buildings_5
+  - first:
+      213: 21300302
+    second: TEX_ATLAS_Buildings_6
+  - first:
+      213: 21300304
+    second: TEX_ATLAS_Buildings_7
+  - first:
+      213: 21300306
+    second: TEX_ATLAS_Buildings_8
+  - first:
+      213: 21300308
+    second: TEX_ATLAS_Buildings_9
+  - first:
+      213: 21300310
+    second: TEX_ATLAS_Buildings_10
+  - first:
+      213: 21300312
+    second: TEX_ATLAS_Buildings_11
+  - first:
+      213: 21300314
+    second: TEX_ATLAS_Buildings_12
+  - first:
+      213: 21300316
+    second: TEX_ATLAS_Buildings_13
+  - first:
+      213: 21300318
+    second: TEX_ATLAS_Buildings_14
+  - first:
+      213: 21300320
+    second: TEX_ATLAS_Buildings_15
+  - first:
+      213: 21300322
+    second: TEX_ATLAS_Buildings_16
+  - first:
+      213: 21300324
+    second: TEX_ATLAS_Buildings_17
+  - first:
+      213: 21300326
+    second: TEX_ATLAS_Buildings_18
+  - first:
+      213: 21300328
+    second: TEX_ATLAS_Buildings_19
+  - first:
+      213: 21300330
+    second: TEX_ATLAS_Buildings_20
+  - first:
+      213: 21300332
+    second: TEX_ATLAS_Buildings_21
+  - first:
+      213: 21300334
+    second: TEX_ATLAS_Buildings_22
+  - first:
+      213: 21300336
+    second: TEX_ATLAS_Buildings_23
+  - first:
+      213: 21300338
+    second: TEX_ATLAS_Buildings_24
+  - first:
+      213: 21300340
+    second: TEX_ATLAS_Buildings_25
+  - first:
+      213: 21300342
+    second: TEX_ATLAS_Buildings_26
+  - first:
+      213: 21300344
+    second: TEX_ATLAS_Buildings_27
+  - first:
+      213: 21300346
+    second: TEX_ATLAS_Buildings_28
+  - first:
+      213: 21300348
+    second: TEX_ATLAS_Buildings_29
+  - first:
+      213: 21300350
+    second: TEX_ATLAS_Buildings_30
+  - first:
+      213: 21300352
+    second: TEX_ATLAS_Buildings_31
+  - first:
+      213: 21300354
+    second: TEX_ATLAS_Buildings_32
+  - first:
+      213: 21300356
+    second: TEX_ATLAS_Buildings_33
+  - first:
+      213: 21300358
+    second: TEX_ATLAS_Buildings_34
+  - first:
+      213: 21300360
+    second: TEX_ATLAS_Buildings_35
+  - first:
+      213: 21300362
+    second: TEX_ATLAS_Buildings_36
+  - first:
+      213: 21300364
+    second: TEX_ATLAS_Buildings_37
+  - first:
+      213: 21300366
+    second: TEX_ATLAS_Buildings_38
+  - first:
+      213: 21300368
+    second: TEX_ATLAS_Buildings_39
+  - first:
+      213: 21300370
+    second: TEX_ATLAS_Buildings_40
+  - first:
+      213: 21300372
+    second: TEX_ATLAS_Buildings_41
+  - first:
+      213: 21300374
+    second: TEX_ATLAS_Buildings_42
+  - first:
+      213: 21300376
+    second: TEX_ATLAS_Buildings_43
+  - first:
+      213: 21300378
+    second: TEX_ATLAS_Buildings_44
+  - first:
+      213: 21300380
+    second: TEX_ATLAS_Buildings_45
+  - first:
+      213: 21300382
+    second: TEX_ATLAS_Buildings_46
+  - first:
+      213: 21300384
+    second: TEX_ATLAS_Buildings_47
+  - first:
+      213: 21300386
+    second: TEX_ATLAS_Buildings_48
+  - first:
+      213: 21300388
+    second: TEX_ATLAS_Buildings_49
+  - first:
+      213: 21300390
+    second: TEX_ATLAS_Buildings_50
+  - first:
+      213: 21300392
+    second: TEX_ATLAS_Buildings_51
+  - first:
+      213: 21300394
+    second: TEX_ATLAS_Buildings_52
+  - first:
+      213: 21300396
+    second: TEX_ATLAS_Buildings_53
+  - first:
+      213: 21300398
+    second: TEX_ATLAS_Buildings_54
+  - first:
+      213: 21300400
+    second: TEX_ATLAS_Buildings_55
+  - first:
+      213: 21300402
+    second: TEX_ATLAS_Buildings_56
+  - first:
+      213: 21300404
+    second: TEX_ATLAS_Buildings_57
+  - first:
+      213: 21300406
+    second: TEX_ATLAS_Buildings_58
+  - first:
+      213: 21300408
+    second: TEX_ATLAS_Buildings_59
+  - first:
+      213: 21300410
+    second: TEX_ATLAS_Buildings_60
+  - first:
+      213: 21300412
+    second: TEX_ATLAS_Buildings_61
+  - first:
+      213: 21300414
+    second: TEX_ATLAS_Buildings_62
+  - first:
+      213: 21300416
+    second: TEX_ATLAS_Buildings_63
+  - first:
+      213: 21300418
+    second: TEX_ATLAS_Buildings_64
+  - first:
+      213: 21300420
+    second: TEX_ATLAS_Buildings_65
+  - first:
+      213: 21300422
+    second: TEX_ATLAS_Buildings_66
+  - first:
+      213: 21300424
+    second: TEX_ATLAS_Buildings_67
+  - first:
+      213: 21300426
+    second: TEX_ATLAS_Buildings_68
+  - first:
+      213: 21300428
+    second: TEX_ATLAS_Buildings_69
+  - first:
+      213: 21300430
+    second: TEX_ATLAS_Buildings_70
+  - first:
+      213: 21300432
+    second: TEX_ATLAS_Buildings_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 376
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 376
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 376
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 376
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 278
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 342
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 278
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 278
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 278
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 278
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 278
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 278
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 310
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 277
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 242
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 242
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 242
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 242
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_36
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 242
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 141
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 208
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 141
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 141
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 141
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 141
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 141
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 141
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 101
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 101
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 101
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 101
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_60
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 101
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_67
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_68
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_69
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 35
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Buildings_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

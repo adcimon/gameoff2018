@@ -1,0 +1,3844 @@
+fileFormatVersion: 2
+guid: 5ad273d648ecb4f44a49b40c31ad7784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TEX_ATLAS_Soldiers512_0
+  - first:
+      213: 21300002
+    second: TEX_ATLAS_Soldiers512_1
+  - first:
+      213: 21300004
+    second: TEX_ATLAS_Soldiers512_2
+  - first:
+      213: 21300006
+    second: TEX_ATLAS_Soldiers512_3
+  - first:
+      213: 21300008
+    second: TEX_ATLAS_Soldiers512_4
+  - first:
+      213: 21300010
+    second: TEX_ATLAS_Soldiers512_5
+  - first:
+      213: 21300012
+    second: TEX_ATLAS_Soldiers512_6
+  - first:
+      213: 21300014
+    second: TEX_ATLAS_Soldiers512_7
+  - first:
+      213: 21300016
+    second: TEX_ATLAS_Soldiers512_8
+  - first:
+      213: 21300018
+    second: TEX_ATLAS_Soldiers512_9
+  - first:
+      213: 21300020
+    second: TEX_ATLAS_Soldiers512_10
+  - first:
+      213: 21300022
+    second: TEX_ATLAS_Soldiers512_11
+  - first:
+      213: 21300024
+    second: TEX_ATLAS_Soldiers512_12
+  - first:
+      213: 21300026
+    second: TEX_ATLAS_Soldiers512_13
+  - first:
+      213: 21300028
+    second: TEX_ATLAS_Soldiers512_14
+  - first:
+      213: 21300030
+    second: TEX_ATLAS_Soldiers512_15
+  - first:
+      213: 21300032
+    second: TEX_ATLAS_Soldiers512_16
+  - first:
+      213: 21300034
+    second: TEX_ATLAS_Soldiers512_17
+  - first:
+      213: 21300036
+    second: 1_Head_Side
+  - first:
+      213: 21300038
+    second: 2_Head_Side
+  - first:
+      213: 21300040
+    second: 3_Head_Side
+  - first:
+      213: 21300042
+    second: 4_Head_Side
+  - first:
+      213: 21300044
+    second: TEX_ATLAS_Soldiers512_22
+  - first:
+      213: 21300046
+    second: TEX_ATLAS_Soldiers512_23
+  - first:
+      213: 21300048
+    second: TEX_ATLAS_Soldiers512_24
+  - first:
+      213: 21300050
+    second: TEX_ATLAS_Soldiers512_25
+  - first:
+      213: 21300052
+    second: TEX_ATLAS_Soldiers512_26
+  - first:
+      213: 21300054
+    second: TEX_ATLAS_Soldiers512_27
+  - first:
+      213: 21300056
+    second: 1_Head_Back
+  - first:
+      213: 21300058
+    second: 3_Head_Back
+  - first:
+      213: 21300060
+    second: 4_Head_Back
+  - first:
+      213: 21300062
+    second: TEX_ATLAS_Soldiers512_31
+  - first:
+      213: 21300064
+    second: 1_Head_Front
+  - first:
+      213: 21300066
+    second: Head_Front
+  - first:
+      213: 21300068
+    second: 3_Head_Front
+  - first:
+      213: 21300070
+    second: 4_Head_Front
+  - first:
+      213: 21300072
+    second: TEX_ATLAS_Soldiers512_36
+  - first:
+      213: 21300074
+    second: TEX_ATLAS_Soldiers512_37
+  - first:
+      213: 21300076
+    second: TEX_ATLAS_Soldiers512_38
+  - first:
+      213: 21300078
+    second: TEX_ATLAS_Soldiers512_39
+  - first:
+      213: 21300080
+    second: TEX_ATLAS_Soldiers512_40
+  - first:
+      213: 21300082
+    second: TEX_ATLAS_Soldiers512_41
+  - first:
+      213: 21300084
+    second: 1_Arm_Right
+  - first:
+      213: 21300086
+    second: 1_Chest_Side
+  - first:
+      213: 21300088
+    second: 1_Arm_Left
+  - first:
+      213: 21300090
+    second: TEX_ATLAS_Soldiers512_45
+  - first:
+      213: 21300092
+    second: TEX_ATLAS_Soldiers512_46
+  - first:
+      213: 21300094
+    second: Chest_Front
+  - first:
+      213: 21300096
+    second: TEX_ATLAS_Soldiers512_48
+  - first:
+      213: 21300098
+    second: 1_Chest_Back
+  - first:
+      213: 21300100
+    second: 1_Elbow_Right
+  - first:
+      213: 21300102
+    second: 1_Pelvis_Side
+  - first:
+      213: 21300104
+    second: 1_Elbow_Left
+  - first:
+      213: 21300106
+    second: 1_Hand_Left_Side
+  - first:
+      213: 21300108
+    second: TEX_ATLAS_Soldiers512_54
+  - first:
+      213: 21300110
+    second: 1_Hand_Right
+  - first:
+      213: 21300112
+    second: 1_Leg_Right
+  - first:
+      213: 21300114
+    second: 1_Leg_Left
+  - first:
+      213: 21300116
+    second: 1_Hand_Left
+  - first:
+      213: 21300118
+    second: 1_Leg_Back
+  - first:
+      213: 21300120
+    second: Pelvis_Front
+  - first:
+      213: 21300122
+    second: 1_Pelvis_Back
+  - first:
+      213: 21300124
+    second: 1_Knee_Right_Front
+  - first:
+      213: 21300126
+    second: 1_Knee_Left_Front
+  - first:
+      213: 21300128
+    second: TEX_ATLAS_Soldiers512_64
+  - first:
+      213: 21300130
+    second: TEX_ATLAS_Soldiers512_65
+  - first:
+      213: 21300132
+    second: 1_Foot_Right_Side
+  - first:
+      213: 21300134
+    second: 1_Foot_Left_Side
+  - first:
+      213: 21300136
+    second: 1_Foot_Left_Back
+  - first:
+      213: 21300138
+    second: 1_Foot_Right_Back
+  - first:
+      213: 21300140
+    second: 1_Foot_Right_Front
+  - first:
+      213: 21300142
+    second: 1_Foot_Left_Front
+  - first:
+      213: 21300144
+    second: TEX_ATLAS_Soldiers512_72
+  - first:
+      213: 21300146
+    second: TEX_ATLAS_Soldiers512_73
+  - first:
+      213: 21300148
+    second: TEX_ATLAS_Soldiers512_74
+  - first:
+      213: 21300150
+    second: TEX_ATLAS_Soldiers512_75
+  - first:
+      213: 21300152
+    second: TEX_ATLAS_Soldiers512_76
+  - first:
+      213: 21300154
+    second: 3_Chest_Side
+  - first:
+      213: 21300156
+    second: 3_Chest_Back
+  - first:
+      213: 21300158
+    second: 3_Chest_Front
+  - first:
+      213: 21300160
+    second: TEX_ATLAS_Soldiers512_80
+  - first:
+      213: 21300162
+    second: TEX_ATLAS_Soldiers512_81
+  - first:
+      213: 21300164
+    second: TEX_ATLAS_Soldiers512_82
+  - first:
+      213: 21300166
+    second: TEX_ATLAS_Soldiers512_83
+  - first:
+      213: 21300168
+    second: TEX_ATLAS_Soldiers512_84
+  - first:
+      213: 21300170
+    second: TEX_ATLAS_Soldiers512_85
+  - first:
+      213: 21300172
+    second: TEX_ATLAS_Soldiers512_86
+  - first:
+      213: 21300174
+    second: TEX_ATLAS_Soldiers512_87
+  - first:
+      213: 21300176
+    second: TEX_ATLAS_Soldiers512_88
+  - first:
+      213: 21300178
+    second: 2_Chest_Side
+  - first:
+      213: 21300180
+    second: 2_Chest_Back
+  - first:
+      213: 21300182
+    second: 2_Chest_Front
+  - first:
+      213: 21300184
+    second: 2_Arm_Right
+  - first:
+      213: 21300186
+    second: 2_Arm_Left
+  - first:
+      213: 21300188
+    second: TEX_ATLAS_Soldiers512_94
+  - first:
+      213: 21300190
+    second: TEX_ATLAS_Soldiers512_95
+  - first:
+      213: 21300192
+    second: TEX_ATLAS_Soldiers512_96
+  - first:
+      213: 21300194
+    second: 2_Elbow_Right
+  - first:
+      213: 21300196
+    second: 2_Elbow_Left
+  - first:
+      213: 21300198
+    second: TEX_ATLAS_Soldiers512_99
+  - first:
+      213: 21300200
+    second: TEX_ATLAS_Soldiers512_100
+  - first:
+      213: 21300202
+    second: 3_Pelvis_Front
+  - first:
+      213: 21300204
+    second: 3_Pelvis_Side
+  - first:
+      213: 21300206
+    second: 3_Leg_Back
+  - first:
+      213: 21300208
+    second: TEX_ATLAS_Soldiers512_104
+  - first:
+      213: 21300210
+    second: TEX_ATLAS_Soldiers512_105
+  - first:
+      213: 21300212
+    second: TEX_ATLAS_Soldiers512_106
+  - first:
+      213: 21300214
+    second: TEX_ATLAS_Soldiers512_107
+  - first:
+      213: 21300216
+    second: TEX_ATLAS_Soldiers512_108
+  - first:
+      213: 21300218
+    second: TEX_ATLAS_Soldiers512_109
+  - first:
+      213: 21300220
+    second: TEX_ATLAS_Soldiers512_110
+  - first:
+      213: 21300222
+    second: TEX_ATLAS_Soldiers512_111
+  - first:
+      213: 21300224
+    second: TEX_ATLAS_Soldiers512_112
+  - first:
+      213: 21300226
+    second: 2_Pelvis_Front
+  - first:
+      213: 21300228
+    second: 2_Pelvis_Side
+  - first:
+      213: 21300230
+    second: 2_Leg_Back
+  - first:
+      213: 21300232
+    second: TEX_ATLAS_Soldiers512_116
+  - first:
+      213: 21300234
+    second: 3_Pelvis_Back
+  - first:
+      213: 21300236
+    second: 3_Leg_Right
+  - first:
+      213: 21300238
+    second: 3_Leg_Left
+  - first:
+      213: 21300240
+    second: TEX_ATLAS_Soldiers512_120
+  - first:
+      213: 21300242
+    second: TEX_ATLAS_Soldiers512_121
+  - first:
+      213: 21300244
+    second: TEX_ATLAS_Soldiers512_122
+  - first:
+      213: 21300246
+    second: TEX_ATLAS_Soldiers512_123
+  - first:
+      213: 21300248
+    second: TEX_ATLAS_Soldiers512_124
+  - first:
+      213: 21300250
+    second: TEX_ATLAS_Soldiers512_125
+  - first:
+      213: 21300252
+    second: TEX_ATLAS_Soldiers512_126
+  - first:
+      213: 21300254
+    second: TEX_ATLAS_Soldiers512_127
+  - first:
+      213: 21300256
+    second: TEX_ATLAS_Soldiers512_128
+  - first:
+      213: 21300258
+    second: TEX_ATLAS_Soldiers512_129
+  - first:
+      213: 21300260
+    second: TEX_ATLAS_Soldiers512_130
+  - first:
+      213: 21300262
+    second: TEX_ATLAS_Soldiers512_131
+  - first:
+      213: 21300264
+    second: 2_Pelvis_Back
+  - first:
+      213: 21300266
+    second: 2_Leg_Right
+  - first:
+      213: 21300268
+    second: 2_Leg_Left
+  - first:
+      213: 21300270
+    second: TEX_ATLAS_Soldiers512_135
+  - first:
+      213: 21300272
+    second: TEX_ATLAS_Soldiers512_136
+  - first:
+      213: 21300274
+    second: 3_Knee_Right_Front
+  - first:
+      213: 21300276
+    second: 3_Knee_Left_Front
+  - first:
+      213: 21300278
+    second: TEX_ATLAS_Soldiers512_139
+  - first:
+      213: 21300280
+    second: TEX_ATLAS_Soldiers512_140
+  - first:
+      213: 21300282
+    second: TEX_ATLAS_Soldiers512_141
+  - first:
+      213: 21300284
+    second: TEX_ATLAS_Soldiers512_142
+  - first:
+      213: 21300286
+    second: 2_Knee_Right_Front
+  - first:
+      213: 21300288
+    second: 2_Knee_Left_Front
+  - first:
+      213: 21300290
+    second: TEX_ATLAS_Soldiers512_145
+  - first:
+      213: 21300292
+    second: TEX_ATLAS_Soldiers512_146
+  - first:
+      213: 21300294
+    second: TEX_ATLAS_Soldiers512_147
+  - first:
+      213: 21300296
+    second: TEX_ATLAS_Soldiers512_148
+  - first:
+      213: 21300298
+    second: TEX_ATLAS_Soldiers512_149
+  - first:
+      213: 21300300
+    second: TEX_ATLAS_Soldiers512_150
+  - first:
+      213: 21300302
+    second: TEX_ATLAS_Soldiers512_151
+  - first:
+      213: 21300304
+    second: TEX_ATLAS_Soldiers512_152
+  - first:
+      213: 21300306
+    second: 2_Head_Front
+  - first:
+      213: 21300308
+    second: 1_Chest_Front
+  - first:
+      213: 21300310
+    second: 1_Pelvis_Front
+  - first:
+      213: 21300312
+    second: TEX_ATLAS_Soldiers512_153
+  - first:
+      213: 21300314
+    second: TEX_ATLAS_Soldiers512_154
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2709
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93f538f9ccdfd46b6b9e472887a085
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2709
+        width: 257
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1f3eec2950824bb30e99c81acc1e9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2702
+        width: 246
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a256d10c568ee614ca5eef52c5c31f4b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2670
+        width: 245
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea10caecbfe86409b12c9f77e2ff43
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2737
+        width: 222
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3efea06e321f004a90901886babbdd1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_5
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2759
+        width: 218
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8022615c98d37394981ae6ba3c951e6f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_6
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 2765
+        width: 177
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6650aab6a52b76449188e926347747e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2449
+        width: 245
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d50cf14785bd4cbaf52ce07c44826
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2449
+        width: 245
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9d7b8364828b4fb8471276511f3ef
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_9
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2449
+        width: 250
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ee46b9dbc79842a65d57b094af727
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2460
+        width: 190
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96b536c0becb94c89d41f2f1f488f4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_11
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2500
+        width: 215
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c73723e3cc804b9a467786bb58bd2
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2184
+        width: 257
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a144d8c5c555468bd0ce5a729bd22
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2184
+        width: 257
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a94eb02ea0b8ad42aa956782749b825
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2184
+        width: 262
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c35cd234df244bb7a8f5c781ccdc2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_15
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2144
+        width: 262
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa9bbca4c4bf94ea98ad22eb78dc78
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_16
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2216
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d5808c060a7e4ba609d427fbb64ea
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_17
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2256
+        width: 201
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620caaea0055d46488d48dc4fe481544
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Head_Side
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1866
+        width: 205
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094eca29ca0881a49af27202489c1d4b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Head_Side
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1860
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b50a888d619e4c9f3ae354c2b54a4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Head_Side
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1854
+        width: 206
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6c256fccd4944ab36fbfd5f4e1512
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Head_Side
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1860
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fcb3c5e2c269a4cbaee253df307f58
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_22
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1854
+        width: 223
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1135724acf514ba7efae0d47de0c2
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_23
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1822
+        width: 218
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab508c734f66a41b767674da89bb9d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_24
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1866
+        width: 213
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d176e839410824eb236839fcfcb8a3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_25
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1854
+        width: 203
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978a67fcd6ca70458306c89318fc77d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_26
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1860
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56963a09cf1616449a2e1c2c04bf702c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_27
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1860
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71d3907fde0924997cd0720353a32a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Head_Back
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1584
+        width: 222
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971821cd7c6498345bb223809f1679ba
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Head_Back
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1576
+        width: 223
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b807cd9ed8a967840878caefbb19356b
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Head_Back
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1584
+        width: 223
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfab58f177d5a847b8f0a9c6705a112
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_31
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1584
+        width: 223
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8fb984abe0bcd48883e1bfea748a39
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Head_Front
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1334
+        width: 228
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0e6a8956e9ba4da6333404a87f083
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Head_Front
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1336
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112d01f42deaed43b9053f3e20593e8
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Head_Front
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1334
+        width: 230
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf44032088a5242a4fb11e867a6138
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Head_Front
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1334
+        width: 241
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efd37cfde49ce4ca67d6577ed71e40
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_36
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1334
+        width: 236
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338ce00a4931c149bea53b2ed70280a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_37
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1300
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21dab250227ad44982813d903fdbe9d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_38
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1334
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f51e72203b24143badbfb0e66455b6
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_39
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1334
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135e0ec73bd21e541be558caaa60b08a
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_40
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1334
+        width: 239
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa67ac449db4044e94f9633418e91d3
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_41
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1334
+        width: 230
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16d36904c504a4da0d1a046abdf118
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Arm_Right
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1136
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4f0213ac1eca47b24cc9bb152cd8e
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Chest_Side
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1063
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ed169040609b4dbefae805c025c8b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Arm_Left
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1119
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850c9682ff436742808d3464c6bbd8f
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1107
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19317d2944f264db0acc62a1d6065e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1102
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f3ee4bb4cb4e546a7d2f8ba83df97b
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Chest_Front
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1063
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770babfe0a666f84293e030614d3845b
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1090
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971a1f3579c4984fad907941d81b44e
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Chest_Back
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1068
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84d9e56f22def4e9bdd73d8241fe74
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Elbow_Right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fae2f8317889545afbf6c1869c7e1a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Pelvis_Side
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1012
+        width: 106
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1876c2bf401d641b67ee489e2e0e46
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Elbow_Left
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1050
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de09419988903459a4ac6161b4813f
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Hand_Left_Side
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1033
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55423191ee5911f4eb043508a905b933
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1006
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e5153e1a77be4290d315f8dbe698a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Hand_Right
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 978
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098da28de3af27d4ca5303949bfc7960
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Leg_Right
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 938
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae0175034fd5b40967f0fb65f40d1c
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Leg_Left
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 938
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492017b1e511cc94cace19c08f6d8483
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Hand_Left
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 989
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac660e45d485bec478fd5d7717105008
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Leg_Back
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 949
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9268dbac6bbfd3d48aa1cf959d4f54a5
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Pelvis_Front
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1001
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3dae14fb97d24eb9fcb335e74e0a4
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Pelvis_Back
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1001
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca048eff35db0284c959ebbbed5e6b15
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Knee_Right_Front
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 882
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b67737acba43243896dcd2c5b1e31b
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Knee_Left_Front
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 882
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d9bffb3b9f7346a4b7ab5d90bf992
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_64
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 869
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19873cf8140c1bb4bba54d4ab63e1db5
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_65
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 882
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b1595cccde484caf383963d498a22
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Right_Side
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 825
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825c0f8942bb7d4bab2604188af16e0
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Left_Side
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 842
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460645c5e574d3429af37d34ca2cfdd
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Left_Back
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 899
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28369ad46c5cd499c5ae1880ae4508
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Right_Back
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 899
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3cc5e0640e4734e93b59b1cc265445
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Right_Front
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 785
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f09b30e6de1c46942f8760cc385c4
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Foot_Left_Front
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 785
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f1881f80924a49b41049fafd1af48
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 780
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49884888688a4c2459f968164d145adb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_73
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 768
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e68e53c6f30540a9966d3ac1090a3
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_74
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 780
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85624e9c012d649ab0c0cec98a41ef
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_75
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 774
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0d18d88cbde64485c96b775e29970
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_76
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 814
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d285802e01d2419fc08d6f9cb9ef3
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Chest_Side
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 520
+        width: 121
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c00013012dc842abec45b886ca64d
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Chest_Back
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 520
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a6e885c25d365469a0df8f0d1683df
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Chest_Front
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 520
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503bd512615b4e4082b5fb1ff0bd08d
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 520
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdab19dbfd62d448f28b3f469b9f19
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_81
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 520
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e170bc580b804cb42132cc9e84867
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_82
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 520
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42866764f64bd4a9f091bb43d9f4e0
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_83
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 599
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99954a8a16ad343b63c26f9911e720
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_84
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 520
+        width: 110
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d003aafc97274c80f7aad2b235378
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_85
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 520
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db9221b8b945a4dae7ee0eaec768ce
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_86
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 520
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757da56f5663a7240891607a9bf27c9d
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_87
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 650
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1777120d9968148ab34ee5400c6429
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_88
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 650
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d92fa498640b41819573f155e58fa
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Chest_Side
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 520
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85379296e8aec4383e0642cbf4dda1
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Chest_Back
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 520
+        width: 121
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3f11408f78044aa2dc96e19784331
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Chest_Front
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 520
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249413441ff6f840bb079bef708858a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Arm_Right
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 650
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1443b689ae7244783ad92b47af8d94
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Arm_Left
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 650
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22be40ed8053c6488aca5671df5f1f8
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_94
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 532
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6e1c1fee2a024693a85bd853fcf41
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_95
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 559
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e5c7672fd51b4dbf16cc24b501ff3
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_96
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 554
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8a5caea3369141b66f8b7478fefd0
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Elbow_Right
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 559
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995f55b857d9e046896dd592b7ba0e8
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Elbow_Left
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 554
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0176d8fefcb541ab5604fefdd72a6
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_99
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 490
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca60001fb1d474caa3a0b51e9403be
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_100
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 490
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851b1f7951d2c04a944a8b0d21322c4
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Pelvis_Front
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a507f603085436f4ca20f681eb29ddcb
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Pelvis_Side
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 378
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e2ada49edf9c49a728cd73a05bc6f
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Leg_Back
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d96859de090a41afed1faccd90e0e
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_104
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41b27f3426b8340aa92a21114a6983
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_105
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8170721d2283624eb0826c4113780a2
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_106
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c027f172b80224f94c5b286948fb55
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_107
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb733f81fea215949b9c2a1b584b6193
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_108
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b81931e22a95408c781c6bc5fcdfa
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_109
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621b9d925d45014994c0756929ebe4a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_110
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6147bb8849b003a4fb25ea8754be9000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_111
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b478e93c57532488551c9e1e5d5b3b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_112
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152463f787c0524491c3c03c90789f3
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pelvis_Front
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec3a0b35c4d1947ad4e5e97dff7024
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pelvis_Side
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 378
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee7e0ffa828064f8ffbec38c26d6e0
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Leg_Back
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 356
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c076f5f88dee684b81f77b4d9170917
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_116
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 356
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fddd8e598c030546a8cd95b23907e05
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Pelvis_Back
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 316
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247023991a2bdbd41af866df4b092716
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Leg_Right
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 309
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0008da7539159924192e7ead7b0d3f68
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Leg_Left
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 309
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26495304392db434bbc642ecb448944b
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 271
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f545335cd0ca7f49812e86e639bb6d6
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_121
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0fc179a2b04745a33e0a72e69d9c5
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_122
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 316
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2ba133a0833b408587912a2bdd811
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 309
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a6104785e9c204fa00137871a03bcc
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_124
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 309
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf7b3ffb89c244fa37961e0693bbc6
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_125
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 271
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffa9bdf3a172d4d933675ee6121511
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_126
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 288
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903c0a8a818002140a5c0668615961ec
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_127
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 316
+        width: 99
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c941ad6f17fc44b701107c869b78c
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_128
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 309
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c7af7b60b3474eba9b4ff09ba942f
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_129
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 309
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802f205d2b70b843975d9aa58a29cf4
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_130
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 271
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68c652639a09848b42cbcb618e82c2
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_131
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 288
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620737c5884b4d641b75de72a21fd3c3
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pelvis_Back
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 316
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee300f0e3c99864883941d06246d46f
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Leg_Right
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 309
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119315fc78b27c44c8c58a26b7de98ec
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Leg_Left
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 309
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8b4098782d9484f88b20bba2fcf91c
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_135
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 271
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f5bda00e2410f459fcc597438b63ac
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_136
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 288
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125eb06e50b75a044bc7161294382c87
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Knee_Right_Front
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2e197c3f5bd8a418f4a050d64dfe41
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_Knee_Left_Front
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 248
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb3031baa42b14292270e81f27006c
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_139
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 248
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d2c7fa47a45045a002a6580b054b7
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_140
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 248
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f876637118124a9fbd7f71e5f18df
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_141
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 248
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458370dd2dcabcd4cb76543180b7e528
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_142
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 248
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f96d32a2830e4a828615e0e2f435b
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Knee_Right_Front
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 248
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a30543122afd554d826a382fb0eb6cb
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Knee_Left_Front
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 248
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8754b3e5e1ef439b21029663a68d8
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_145
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 141
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913d603ff3ed024392255f871350029
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_146
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 141
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaacf2b9b09de143856189e506c6760
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_147
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 135
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38363518400394590c85780d4a326d
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_148
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 128
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe6dff69264804380d454f7ffc4943
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_149
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 141
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4647de81c8e94297665b4dc7fb4cc
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_150
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 153
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ff6f274ba8c447bc72cf775ae2000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_151
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 44
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62243d762c0a742a4e750a50a4fa15
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_152
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 44
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5fbc92a8c6ce4a87b150457edc183
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_153
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 38
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed23d235fcc3f43851384b49acaef1
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_ATLAS_Soldiers512_154
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 31
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4253db964150a4db96ad03b1a3279c
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cff80214f971f14aad53ab8dca18a25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
