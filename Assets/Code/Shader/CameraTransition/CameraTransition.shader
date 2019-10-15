@@ -66,7 +66,7 @@ Shader "Image Effects/Camera Transition"
 				return output;
 			}
 
-			fixed4 Fragment( Varyings input ) : SV_TARGET
+			half4 Fragment( Varyings input ) : SV_TARGET
 			{
 				float4 transitionColor = tex2D(_TransitionTex, input.uv1);
 
