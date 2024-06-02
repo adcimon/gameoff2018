@@ -3,21 +3,21 @@
 [RequireComponent(typeof(BoxCollider2D))]
 public class GunSelector : MonoBehaviour
 {
-    public Gun gun;
+	public Gun gun;
 
-    private void OnTriggerEnter2D( Collider2D other )
-    {
-        ShootController shootController = other.gameObject.GetComponent<ShootController>();
-        if( !shootController )
-        {
-            return;
-        }
+	private void OnTriggerEnter2D(Collider2D other)
+	{
+		ShootController shootController = other.gameObject.GetComponent<ShootController>();
+		if (!shootController)
+		{
+			return;
+		}
 
-        if( !gun )
-        {
-            return;
-        }
+		if (!gun)
+		{
+			return;
+		}
 
-        shootController.AddGun(gun);
-    }
+		shootController.AddGun(gun);
+	}
 }

@@ -14,33 +14,33 @@ public class CameraTransitionEffect : MonoBehaviour
 	[Range(0, 1)]
 	public float fade = 1;
 
-    private bool playing = false;
-    private int inOut = 1;
-    private float duration;
-    private float elapsedTime = 0;
+	private bool playing = false;
+	private int inOut = 1;
+	private float duration;
+	private float elapsedTime = 0;
 
-    private void Update()
-    {
-        if( !playing )
-        {
-            return;
-        }
-
-        elapsedTime += Time.deltaTime;
-        cutoff = (inOut == 1) ? (elapsedTime / duration) : (1 - (elapsedTime / duration));
-        if( elapsedTime >= duration )
-        {
-            cutoff = (inOut == 1) ? 1 : 0;
-            playing = false;
-        }
-    }
-
-    private void OnRenderImage( RenderTexture src, RenderTexture dst )
+	private void Update()
 	{
-        if( transitionMaterial == null || transitionTexture == null )
-        {
-            return;
-        }
+		if (!playing)
+		{
+			return;
+		}
+
+		elapsedTime += Time.deltaTime;
+		cutoff = (inOut == 1) ? (elapsedTime / duration) : (1 - (elapsedTime / duration));
+		if (elapsedTime >= duration)
+		{
+			cutoff = (inOut == 1) ? 1 : 0;
+			playing = false;
+		}
+	}
+
+	private void OnRenderImage(RenderTexture src, RenderTexture dst)
+	{
+		if (transitionMaterial == null || transitionTexture == null)
+		{
+			return;
+		}
 
 		transitionMaterial.SetTexture("_TransitionTex", transitionTexture);
 		transitionMaterial.SetColor("_Color", color);
@@ -49,24 +49,24 @@ public class CameraTransitionEffect : MonoBehaviour
 		Graphics.Blit(src, dst, transitionMaterial);
 	}
 
-    public void Play( float duration )
-    {
-        if( playing )
-        {
-            return;
-        }
+	public void Play(float duration)
+	{
+		if (playing)
+		{
+			return;
+		}
 
-        if( cutoff == 0 )
-        {
-            inOut = 1;
-        }
-        if( cutoff == 1 )
-        {
-            inOut = -1;
-        }
+		if (cutoff == 0)
+		{
+			inOut = 1;
+		}
+		if (cutoff == 1)
+		{
+			inOut = -1;
+		}
 
-        this.duration = duration;
-        elapsedTime = 0;
-        playing = true;
-    }
+		this.duration = duration;
+		elapsedTime = 0;
+		playing = true;
+	}
 }

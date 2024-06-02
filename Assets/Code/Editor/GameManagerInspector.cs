@@ -4,7 +4,7 @@ using UnityEditor;
 [CustomEditor(typeof(GameManager))]
 public class GameManagerInspector : Editor
 {
-    private GameManager script;
+	private GameManager script;
 
 	private void Awake()
 	{
@@ -14,10 +14,10 @@ public class GameManagerInspector : Editor
 	public override void OnInspectorGUI()
 	{
 		DrawDefaultInspector();
-        GUILayout.Space(10);
-        if( GUILayout.Button("End Game") )
-        {
-            script.EndGame();
-        }
+		GUILayout.Space(10);
+		if (GUILayout.Button("End Game"))
+		{
+			script.EndGame();
+		}
 	}
 }
